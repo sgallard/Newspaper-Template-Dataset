@@ -1,0 +1,1 @@
+{"id": "38683", "mmWidth": 84.0, "mmHeight": 55.0, "nbImages": 0, "nbCol": 2, "blocks": {"5525": {"coordinates": [[0.0, 0.0], [84.0, 0.0], [84.0, 6.0], [0.0, 6.0]], "xy": [0.0, 0.0], "width": 84.0, "height": 6.0, "feature": ""}}, "text_block": {"id": "5473", "feature": "TEXTE", "polygons": [{"outer_boundary": [[0.0, 55.0], [0.0, 8.0], [84.0, 8.0], [84.0, 55.0]], "holes": []}]}}
