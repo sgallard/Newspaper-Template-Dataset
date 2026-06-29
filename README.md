@@ -1,4 +1,4 @@
-# Dataset used in work titled: Supporting Diverse Template Selection in Newspaper Production via Graph Matching Network-Based Clustering
+# Dataset used in: Diversity-Aware Retrieval of Structured Layout Templates via Graph-Matching Network-Based Clustering
 
 ## Description
 - In the folder `json-augmented-dataset` you can find the JSON dataset of templates. All templates inside were used to train LayoutGMN. Only templates outside `XXXXXX` folders, where `X={0,1}`, were used for clustering and recommendation.  Each template folder has its 
